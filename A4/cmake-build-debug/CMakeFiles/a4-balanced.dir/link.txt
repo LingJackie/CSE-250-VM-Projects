@@ -1,0 +1,1 @@
+/usr/bin/c++  -ggdb -std=c++11 -Wall -Werror=uninitialized -Werror=maybe-uninitialized -Winit-self -Wredundant-decls -Werror=return-type -g   CMakeFiles/a4-balanced.dir/code/main-balanced.cpp.o  -o a4-balanced 

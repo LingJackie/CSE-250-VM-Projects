@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/sf_CSE_250_VM_Shared_Folder/A3/code/main-written.cpp
+iostream
+-
+stack
+-
+queue
+-
+vector
+-
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/sf_CSE_250_VM_Shared_Folder/A3/code/main.cpp
+sNodeStack.hpp
+/media/sf_CSE_250_VM_Shared_Folder/A3/code/sNodeStack.hpp
+sNodeQueue.hpp
+/media/sf_CSE_250_VM_Shared_Folder/A3/code/sNodeQueue.hpp
+iostream
+-
+
+/media/sf_CSE_250_VM_Shared_Folder/A3/code/sNode.hpp
+
+/media/sf_CSE_250_VM_Shared_Folder/A3/code/sNodeQueue.hpp
+sNode.hpp
+/media/sf_CSE_250_VM_Shared_Folder/A3/code/sNode.hpp
+
+/media/sf_CSE_250_VM_Shared_Folder/A3/code/sNodeStack.hpp
+sNode.hpp
+/media/sf_CSE_250_VM_Shared_Folder/A3/code/sNode.hpp
+

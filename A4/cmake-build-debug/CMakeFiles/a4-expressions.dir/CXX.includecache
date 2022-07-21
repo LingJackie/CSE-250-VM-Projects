@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/sf_CSE_250_VM_Shared_Folder/A4/code/a4-expressions.hpp
+tNode.hpp
+/media/sf_CSE_250_VM_Shared_Folder/A4/code/tNode.hpp
+sstream
+-
+
+/media/sf_CSE_250_VM_Shared_Folder/A4/code/main-expressions.cpp
+a4-expressions.hpp
+/media/sf_CSE_250_VM_Shared_Folder/A4/code/a4-expressions.hpp
+tNode.hpp
+/media/sf_CSE_250_VM_Shared_Folder/A4/code/tNode.hpp
+string
+-
+sstream
+-
+iostream
+-
+
+/media/sf_CSE_250_VM_Shared_Folder/A4/code/tNode.hpp
+

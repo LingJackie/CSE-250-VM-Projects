@@ -1,0 +1,8 @@
+/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/CMakeFiles/a4-heap.dir
+/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/CMakeFiles/a4-expressions-obj.dir
+/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/CMakeFiles/a4-expressions.dir
+/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/CMakeFiles/a4-balanced-obj.dir
+/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/CMakeFiles/a4-heap-obj.dir
+/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/CMakeFiles/a4-balanced.dir

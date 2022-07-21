@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="A4"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a4-heap">
+				<Option output="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/a4-heap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 a4-heap"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a4-heap/fast">
+				<Option output="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/a4-heap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 a4-heap/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a4-expressions-obj">
+				<Option output="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/CMakeFiles/a4-expressions-obj.dir/a4-expressions-obj.objlib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 a4-expressions-obj"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a4-expressions-obj/fast">
+				<Option output="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/CMakeFiles/a4-expressions-obj.dir/a4-expressions-obj.objlib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 a4-expressions-obj/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a4-expressions">
+				<Option output="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/a4-expressions" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 a4-expressions"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a4-expressions/fast">
+				<Option output="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/a4-expressions" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 a4-expressions/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a4-balanced-obj">
+				<Option output="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/CMakeFiles/a4-balanced-obj.dir/a4-balanced-obj.objlib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 a4-balanced-obj"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a4-balanced-obj/fast">
+				<Option output="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/CMakeFiles/a4-balanced-obj.dir/a4-balanced-obj.objlib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 a4-balanced-obj/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a4-heap-obj">
+				<Option output="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/CMakeFiles/a4-heap-obj.dir/a4-heap-obj.objlib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 a4-heap-obj"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a4-heap-obj/fast">
+				<Option output="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/CMakeFiles/a4-heap-obj.dir/a4-heap-obj.objlib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 a4-heap-obj/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a4-balanced">
+				<Option output="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/a4-balanced" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 a4-balanced"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a4-balanced/fast">
+				<Option output="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/a4-balanced" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 a4-balanced/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CSE_250_VM_Shared_Folder/A4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/media/sf_CSE_250_VM_Shared_Folder/A4/code/a4-balanced.hpp">
+			<Option target="a4-balanced-obj"/>
+		</Unit>
+		<Unit filename="/media/sf_CSE_250_VM_Shared_Folder/A4/code/a4-expressions.hpp">
+			<Option target="a4-expressions-obj"/>
+		</Unit>
+		<Unit filename="/media/sf_CSE_250_VM_Shared_Folder/A4/code/a4-heap.hpp">
+			<Option target="a4-heap-obj"/>
+		</Unit>
+		<Unit filename="/media/sf_CSE_250_VM_Shared_Folder/A4/code/main-balanced.cpp">
+			<Option target="a4-balanced"/>
+		</Unit>
+		<Unit filename="/media/sf_CSE_250_VM_Shared_Folder/A4/code/main-expressions.cpp">
+			<Option target="a4-expressions"/>
+		</Unit>
+		<Unit filename="/media/sf_CSE_250_VM_Shared_Folder/A4/code/main-heap.cpp">
+			<Option target="a4-heap"/>
+		</Unit>
+		<Unit filename="/media/sf_CSE_250_VM_Shared_Folder/A4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,9 @@
+/media/sf_CSE_250_VM_Shared_Folder/A3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/sf_CSE_250_VM_Shared_Folder/A3/cmake-build-debug/CMakeFiles/a3.dir
+/media/sf_CSE_250_VM_Shared_Folder/A3/cmake-build-debug/CMakeFiles/sNodeQueue-obj.dir
+/media/sf_CSE_250_VM_Shared_Folder/A3/cmake-build-debug/CMakeFiles/main-written-obj.dir
+/media/sf_CSE_250_VM_Shared_Folder/A3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/sf_CSE_250_VM_Shared_Folder/A3/cmake-build-debug/CMakeFiles/a3-written.dir
+/media/sf_CSE_250_VM_Shared_Folder/A3/cmake-build-debug/CMakeFiles/sNodeStack-obj.dir
+/media/sf_CSE_250_VM_Shared_Folder/A3/cmake-build-debug/CMakeFiles/a3-written-obj.dir
+/media/sf_CSE_250_VM_Shared_Folder/A3/cmake-build-debug/CMakeFiles/sNode-obj.dir
